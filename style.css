@@ -154,12 +154,12 @@ body {
     color: white;
     font-weight: 150;
 }
-.about-left h5{
+/* .about-left h5{
     font-size: 15px;
     color: white;
     font-weight: 500;
     padding: 25px 0;
-}
+} */
 .name{
     font-size: 20px;
     font-weight: 600;
@@ -168,7 +168,7 @@ body {
     font-size: 38px;
     font-weight: 700;
     width: 100%;
-   padding-bottom: 25px;
+   padding: 25px 0;
 }
 .fixed-text{
     display: inline-block;
@@ -492,24 +492,28 @@ font-weight: 700;
     /* font-weight: 700; */
   }
   .animated-text{
-    font-size: 25px;
+    font-size: 20px;
   }
   .about{
     flex-direction: column;
   } 
   .about-left, .about-right{
-padding: 30px 20px;
+    padding: 30px 20px;
   }
    .about-left{
-    padding-top: 90px 0;
+    padding-top: 190px;
    
    }
+  .project-section{
+    padding-top:100px ;
+  }
   .btn{
     text-align: center;
   }
   .btn button{
-    width: 300px;
+    width: 320px;
   }
+  
 
   /* .about-left{
     text-align: center;
