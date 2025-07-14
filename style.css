@@ -492,7 +492,7 @@ font-weight: 700;
     /* font-weight: 700; */
   }
   .animated-text{
-    font-size: 20px;
+    font-size: 23px;
   }
   .about{
     flex-direction: column;
@@ -543,7 +543,7 @@ font-weight: 700;
 }
 @media (max-width: 600px) {
   .carousel{
-padding:0 15px ;
+padding:0 20px ;
   }
   .slide img {
     max-height: 260px;
